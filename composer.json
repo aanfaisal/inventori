@@ -6,7 +6,14 @@
     "type": "project",
     "require": {
         "php": ">=5.6.4",
-        "laravel/framework": "5.3.*"
+        "laravel/framework": "5.3.*",
+        "acacha/admin-lte-template-laravel": "3.0.*",
+        "laravelcollective/html": "^5.3",
+        "laravelcollective/bus": "^5.3",
+        "creativeorange/gravatar": "~1.0",
+        "maatwebsite/excel": "~2.1.0",
+        "appzcoder/crud-generator": "^1.2",
+        "barryvdh/laravel-dompdf": "^0.7.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
