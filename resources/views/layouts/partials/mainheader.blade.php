@@ -4,9 +4,9 @@
     <!-- Logo -->
     <a href="{{ url('/home') }}" class="logo">
         <!-- mini logo for sidebar mini 50x50 pixels -->
-        <span class="logo-mini"><b>Pho</b>to</span>
+        <span class="logo-mini"><b>Inv</b>App</span>
         <!-- logo for regular state and mobile devices -->
-        <span class="logo-lg"><b>Photobooth</b>App </span>
+        <span class="logo-lg"><b>Inventori</b>App </span>
     </a>
 
     <!-- Header Navbar -->

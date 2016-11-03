@@ -34,6 +34,13 @@
             <li class="header">Inventori App</li>
             <!-- Optionally, you can add icons to the links -->
             <li><a href="{{ url('home') }}"><i class='fa fa-home'></i> <span>Home</span></a></li>
+            <li><a href="{{ url('staff') }}"><i class='fa fa-users'></i> <span>Staff</span></a></li>
+            <li><a href="{{ url('rekanan') }}"><i class='fa fa-thumbs-o-up'></i> <span>Rekanan</span></a></li>
+            <li><a href="{{ url('produk') }}"><i class='fa fa-diamond'></i> <span>Produk</span></a></li>
+            <li><a href="{{ url('supplaier') }}"><i class='fa fa-truck'></i> <span>Supplaier</span></a></li>
+            <li><a href="{{ url('asset') }}"><i class='fa fa-tasks'></i> <span>Asset Barang</span></a></li>
+
+
         </ul><!-- /.sidebar-menu -->
     </section>
     <!-- /.sidebar -->
